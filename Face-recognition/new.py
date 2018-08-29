@@ -1,4 +1,4 @@
-# Install both library and you can run this code by typing
+# Install both libraries (face_recognition & opencv-python by pip install) and you can run this code by typing
 # $ python new.py
 # You can give a star if you like this code
 
